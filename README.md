@@ -1,0 +1,2 @@
+# Portfolio_Sql_Coviddataanalysis
+SQl_Project
